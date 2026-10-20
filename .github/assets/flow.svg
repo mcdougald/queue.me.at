@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="213" viewBox="0 0 880 213" role="img" aria-label="How queue.me.at works: Connect, then Retain, then Explore, then Act">
+<rect x="0.5" y="0.5" width="879" height="212" rx="12" fill="#ffffff" stroke="#e5e5e5"/>
+<rect x="24" y="24" width="187" height="126" rx="10" fill="#fafafa" stroke="#e5e5e5"/>
+<text x="40" y="56" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#a3a3a3" opacity="1">01</text>
+<text x="40" y="78" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#0a0a0a" font-weight="600"><tspan x="40" dy="0">Connect</tspan></text>
+<text x="40" y="102" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#525252"><tspan x="40" dy="0">Register a source and</tspan><tspan x="40" dy="19">its queues.</tspan></text>
+<path d="M217 87 H231" stroke="#a3a3a3" stroke-width="1.5"/><path d="M227 83 L233 87 L227 91" fill="none" stroke="#a3a3a3" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="239" y="24" width="187" height="126" rx="10" fill="#fafafa" stroke="#e5e5e5"/>
+<text x="255" y="56" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#a3a3a3" opacity="1">02</text>
+<text x="255" y="78" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#0a0a0a" font-weight="600"><tspan x="255" dy="0">Retain</tspan></text>
+<text x="255" y="102" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#525252"><tspan x="255" dy="0">Settled jobs kept past</tspan><tspan x="255" dy="19">Redis eviction.</tspan></text>
+<path d="M432 87 H446" stroke="#a3a3a3" stroke-width="1.5"/><path d="M442 83 L448 87 L442 91" fill="none" stroke="#a3a3a3" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="454" y="24" width="187" height="126" rx="10" fill="#fafafa" stroke="#e5e5e5"/>
+<text x="470" y="56" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#a3a3a3" opacity="1">03</text>
+<text x="470" y="78" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#0a0a0a" font-weight="600"><tspan x="470" dy="0">Explore</tspan></text>
+<text x="470" y="102" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#525252"><tspan x="470" dy="0">Filter runs, open</tspan><tspan x="470" dy="19">timing and errors.</tspan></text>
+<path d="M647 87 H661" stroke="#a3a3a3" stroke-width="1.5"/><path d="M657 83 L663 87 L657 91" fill="none" stroke="#a3a3a3" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="669" y="24" width="187" height="126" rx="10" fill="#171717"/>
+<text x="685" y="56" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#fafafa" opacity="0.6">04</text>
+<text x="685" y="78" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#fafafa" font-weight="600"><tspan x="685" dy="0">Act</tspan></text>
+<text x="685" y="102" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#fafafa" opacity="0.8"><tspan x="685" dy="0">Audited retry, pause</tspan><tspan x="685" dy="19">and resume.</tspan></text>
+
+<text x="24" y="180" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#a3a3a3"><tspan x="24" dy="0">Source connection URLs are stored encrypted, and a public sample console runs on made-up data.</tspan></text>
+</svg>

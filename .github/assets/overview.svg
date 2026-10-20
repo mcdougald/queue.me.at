@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="302" viewBox="0 0 880 302" role="img" aria-label="queue.me.at at a glance: History past eviction, Find the failed job, Read-only by default, Durable workflows">
+<rect x="0.5" y="0.5" width="879" height="301" rx="12" fill="#ffffff" stroke="#e5e5e5"/>
+<rect x="24" y="24" width="196" height="254" rx="10" fill="#fafafa" stroke="#e5e5e5"/>
+<text x="44" y="60" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#a3a3a3">01</text>
+<line x1="72" y1="56" x2="200" y2="56" stroke="#d4d4d4" stroke-width="1"/>
+<text x="44" y="98" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#0a0a0a" font-weight="600"><tspan x="44" dy="0">History past</tspan><tspan x="44" dy="22">eviction</tspan></text>
+<text x="44" y="148" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#525252"><tspan x="44" dy="0">Settled jobs are kept</tspan><tspan x="44" dy="21">after Redis removes</tspan><tspan x="44" dy="21">them, within</tspan><tspan x="44" dy="21">retention windows and</tspan><tspan x="44" dy="21">row ceilings.</tspan></text>
+<rect x="236" y="24" width="196" height="254" rx="10" fill="#fafafa" stroke="#e5e5e5"/>
+<text x="256" y="60" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#a3a3a3">02</text>
+<line x1="284" y1="56" x2="412" y2="56" stroke="#d4d4d4" stroke-width="1"/>
+<text x="256" y="98" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#0a0a0a" font-weight="600"><tspan x="256" dy="0">Find the failed</tspan><tspan x="256" dy="22">job</tspan></text>
+<text x="256" y="148" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#525252"><tspan x="256" dy="0">Filter runs by queue,</tspan><tspan x="256" dy="21">state, id, text and</tspan><tspan x="256" dy="21">time. Filters and</tspan><tspan x="256" dy="21">selected runs have</tspan><tspan x="256" dy="21">shareable URLs.</tspan></text>
+<rect x="448" y="24" width="196" height="254" rx="10" fill="#fafafa" stroke="#e5e5e5"/>
+<text x="468" y="60" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#a3a3a3">03</text>
+<line x1="496" y1="56" x2="624" y2="56" stroke="#d4d4d4" stroke-width="1"/>
+<text x="468" y="98" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#0a0a0a" font-weight="600"><tspan x="468" dy="0">Read-only by</tspan><tspan x="468" dy="22">default</tspan></text>
+<text x="468" y="148" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#525252"><tspan x="468" dy="0">Retry, pause,</tspan><tspan x="468" dy="21">concurrency and</tspan><tspan x="468" dy="21">schedules need admin</tspan><tspan x="468" dy="21">permission and an</tspan><tspan x="468" dy="21">explicit queue</tspan><tspan x="468" dy="21">confirmation.</tspan></text>
+<rect x="660" y="24" width="196" height="254" rx="10" fill="#fafafa" stroke="#e5e5e5"/>
+<text x="680" y="60" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#a3a3a3">04</text>
+<line x1="708" y1="56" x2="836" y2="56" stroke="#d4d4d4" stroke-width="1"/>
+<text x="680" y="98" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#0a0a0a" font-weight="600"><tspan x="680" dy="0">Durable</tspan><tspan x="680" dy="22">workflows</tspan></text>
+<text x="680" y="148" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#525252"><tspan x="680" dy="0">A BullMQ worker runs</tspan><tspan x="680" dy="21">validated steps with</tspan><tspan x="680" dy="21">checkpoints in the</tspan><tspan x="680" dy="21">job, so finished</tspan><tspan x="680" dy="21">steps are reused on</tspan><tspan x="680" dy="21">retry.</tspan></text>
+</svg>
